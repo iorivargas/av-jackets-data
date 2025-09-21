@@ -7,7 +7,10 @@
     "rating": 4,
     "type": "leather",
     "colors": "withe | charcoal | camel | black",
-    "image": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/1_NASA%20.png"
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/1_NASA%20.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/2_NASA%20.png"
+    ]
   },
     {
     "id": "b35684",
