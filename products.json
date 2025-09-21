@@ -1,0 +1,22 @@
+[
+  {
+    "id": "d128393",
+    "name": "Chamarra1",
+    "subtitle": "subtitle 1",
+    "price": 600,
+    "rating": 4,
+    "type": "leather",
+    "colors": "withe | charcoal | camel | black",
+    "image": "/assets/AD-24440/Blush-Pink-Puffer-Jacket-Style.png"
+  },
+    {
+    "id": "b35684",
+    "name": "Chamarra2",
+    "subtitle": "subtitle 2",
+    "price": 800,
+    "rating": 5,
+    "type": "leather",
+    "colors": "withe | charcoal | camel | black",
+    "image": "/assets/AD-24440/Blush-Pink-Puffer-Jacket-Style.png"
+  }
+]
