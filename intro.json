@@ -1,0 +1,8 @@
+{
+  "title": "avjackets: chamarras minimalistas, máximo estilo",
+  "subtitle": "Explora nuestra selección con diseño atemporal y materiales premium. Filtra por estilo, color y precio, o busca directamente lo que necesitas.",
+  "ctas": [
+    { "label": "Ver catálogo", "href": "#catalogo", "variant": "dark" },
+    { "label": "Instagram @avjackets", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
+  ]
+}
