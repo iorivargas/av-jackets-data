@@ -26,5 +26,42 @@
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_7.png",
     "alt": "NASA Reflejante"
+  },
+  {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_7.png",
+    "alt": "Colección minimalista 2025",
+    "title": "Colección 2025",
+    "subtitle": "Minimalismo, confort y durabilidad",
+    "ctas": [
+      { "label": "Ver catálogo", "href": "#catalogo", "variant": "light" },
+      { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
+    ],
+    "position": "top-left",
+    "textColor": "light",
+    "overlay": 40
+  },
+  {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_6.png",
+    "alt": "Impermeables urbanos",
+    "title": "Impermeables urbanos",
+    "subtitle": "Listos para lluvia y viento",
+    "ctas": [
+      { "label": "Contáctanos", "href": "#contacto", "variant": "dark" }
+    ],
+    "position": "center",
+    "textColor": "light",
+    "overlay": 30
+  },
+  {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_5.png",
+    "alt": "Diseño atemporal",
+    "title": "Diseño atemporal",
+    "subtitle": "Piezas que combinan con todo",
+    "ctas": [
+      { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "light" }
+    ],
+    "position": "bottom-right",
+    "textColor": "light",
+    "overlay": 20
   }
 ]
