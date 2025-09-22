@@ -11,9 +11,10 @@
     "subtitle": "Minimalismo, confort y durabilidad",
     "ctas": [
       { "label": "Ver catálogo", "href": "#catalogo", "variant": "light" },
-      { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
+      { "label": "Contáctanos", "href": "#contacto", "variant": "dark" }
+
     ],
-    "position": "top-left",
+    "position": "center",
     "textColor": "light",
     "overlay": 40
   },
@@ -23,9 +24,34 @@
     "overlay": 0
   },
   {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_2.png",
+    "alt": "Colección otoño 2025",
+    "title": "Colección otoño 2025",
+    "subtitle": "Minimalismo, confort y durabilidad",
+    "ctas": [
+      { "label": "Ver catálogo", "href": "#catalogo", "variant": "light" },
+      { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
+    ],
+    "position": "center",
+    "textColor": "light",
+    "overlay": 40
+  },
+  {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_3.png",
     "alt": "Men Puffer Jacket",
     "overlay": 0
+  },
+  {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_3.png",
+    "alt": "Colección otoño 2025",
+    "title": "Colección otoño 2025",
+    "subtitle": "Minimalismo, confort y durabilidad",
+    "ctas": [
+      { "label": "Ver catálogo", "href": "#catalogo", "variant": "light" }
+    ],
+    "position": "center",
+    "textColor": "light",
+    "overlay": 40
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_4.png",
@@ -33,14 +59,52 @@
     "overlay": 0
   },
   {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_4.png",
+    "alt": "Colección otoño 2025",
+    "title": "Colección otoño 2025",
+    "subtitle": "Minimalismo, confort y durabilidad",
+    "ctas": [
+      { "label": "Ver catálogo", "href": "#catalogo", "variant": "dark" },
+      {"label": "Contáctanos", "href": "#contacto", "variant": "dark" }
+    ],
+    "position": "center",
+    "textColor": "light",
+    "overlay": 40
+  },
+  {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_5.png",
     "alt": "Promotions",
     "overlay": 0
   },
   {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_5.png",
+    "alt": "Colección otoño 2025",
+    "title": "Colección otoño 2025",
+    "subtitle": "Minimalismo, confort y durabilidad",
+    "ctas": [
+      { "label": "Ver catálogo", "href": "#catalogo", "variant": "light" },
+      { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
+    ],
+    "position": "center",
+    "textColor": "light",
+    "overlay": 40
+  },
+  {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_6.png",
     "alt": "Last Pieces",
     "overlay": 0
+  },
+  {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_6.png",
+    "alt": "Colección otoño 2025",
+    "title": "Colección otoño 2025",
+    "subtitle": "Minimalismo, confort y durabilidad",
+    "ctas": [
+      {"label": "Contáctanos", "href": "#contacto", "variant": "dark" }
+    ],
+    "position": "top-left",
+    "textColor": "light",
+    "overlay": 40
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_7.png",
@@ -59,29 +123,5 @@
     "position": "center",
     "textColor": "light",
     "overlay": 40
-  },
-  {
-    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_6.png",
-    "alt": "Impermeables urbanos",
-    "title": "Impermeables urbanos",
-    "subtitle": "Listos para lluvia y viento",
-    "ctas": [
-      { "label": "Contáctanos", "href": "#contacto", "variant": "dark" }
-    ],
-    "position": "center",
-    "textColor": "light",
-    "overlay": 30
-  },
-  {
-    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_5.png",
-    "alt": "Diseño atemporal",
-    "title": "Diseño atemporal",
-    "subtitle": "Piezas que combinan con todo",
-    "ctas": [
-      { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "light" }
-    ],
-    "position": "bottom-right",
-    "textColor": "light",
-    "overlay": 20
   }
 ]
