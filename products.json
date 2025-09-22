@@ -8,7 +8,7 @@
     "type": "leather",
     "colors": "white | charcoal | camel | black",
     "soldOut": true,
-    "soldOutLabel": "NO DISPONIBLE\nPróximamente"
+    "soldOutLabel": "NO DISPONIBLE\nPróximamente",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/1_NASA%20.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/2_NASA%20.png"
@@ -33,7 +33,7 @@
     "type": "reflectante",
     "colors": "gray",
     "soldOut": true,
-    "soldOutLabel": "NO DISPONIBLE\nPróximamente"
+    "soldOutLabel": "NO DISPONIBLE\nPróximamente",
     "image": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/2_NASA%20.png"
   }
 ]
