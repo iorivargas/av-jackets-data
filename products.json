@@ -6,8 +6,9 @@
     "price": 600,
     "rating": 4,
     "type": "leather",
-    "colors": "withe | charcoal | camel | black",
+    "colors": "white | charcoal | camel | black",
     "soldOut": true,
+    "soldOutLabel": "NO DISPONIBLE\nPróximamente"
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/1_NASA%20.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/2_NASA%20.png"
@@ -19,7 +20,20 @@
     "subtitle": "Chamarra tipo gabardina reflejante",
     "price": 800,
     "rating": 8,
-    "type": "reflejante",
+    "type": "reflectante",
+    "colors": "#808080",
+    "image": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/2_NASA%20.png"
+  },
+    {
+    "id": "b35684",
+    "name": "Nasa",
+    "subtitle": "Chamarra tipo gabardina reflejante",
+    "price": 800,
+    "rating": 8,
+    "type": "reflectante",
+    "colors": "gray",
+    "soldOut": true,
+    "soldOutLabel": "NO DISPONIBLE\nPróximamente"
     "image": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/7e3f481b88a05c274c5628909260e6109b891df2/assets/NASA/2_NASA%20.png"
   }
 ]
