@@ -1,7 +1,7 @@
 [
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_1.png",
-    "alt": "Bomber  Jacket"
+    "alt": "Bomber  Jacket",
     "overlay": 0
   },
   {
@@ -19,31 +19,32 @@
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_2.png",
-    "alt": "Women Puffer Jacket"
+    "alt": "Women Puffer Jacket",
     "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_3.png",
-    "alt": "Men Puffer Jacket"
+    "alt": "Men Puffer Jacket",
     "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_4.png",
-    "alt": "Corduroy Jacket"
+    "alt": "Corduroy Jacket",
+    "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_5.png",
-    "alt": "Promotions"
+    "alt": "Promotions",
     "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_6.png",
-    "alt": "Last Pieces"
+    "alt": "Last Pieces",
     "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_7.png",
-    "alt": "NASA Reflejante"
+    "alt": "NASA Reflejante",
     "overlay": 0
   },
   {
