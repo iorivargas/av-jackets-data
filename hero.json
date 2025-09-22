@@ -2,14 +2,30 @@
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_1.png",
     "alt": "Bomber  Jacket"
+    "overlay": 0
+  },
+  {
+    "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_1.png",
+    "alt": "Colección otoño 2025",
+    "title": "Colección otoño 2025",
+    "subtitle": "Minimalismo, confort y durabilidad",
+    "ctas": [
+      { "label": "Ver catálogo", "href": "#catalogo", "variant": "light" },
+      { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
+    ],
+    "position": "top-left",
+    "textColor": "light",
+    "overlay": 40
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_2.png",
     "alt": "Women Puffer Jacket"
+    "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_3.png",
     "alt": "Men Puffer Jacket"
+    "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_4.png",
@@ -18,14 +34,17 @@
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_5.png",
     "alt": "Promotions"
+    "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_6.png",
     "alt": "Last Pieces"
+    "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_7.png",
     "alt": "NASA Reflejante"
+    "overlay": 0
   },
   {
     "src": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Promotions_Layouts/Layout_7.png",
@@ -36,7 +55,7 @@
       { "label": "Ver catálogo", "href": "#catalogo", "variant": "light" },
       { "label": "Instagram", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
     ],
-    "position": "top-left",
+    "position": "center",
     "textColor": "light",
     "overlay": 40
   },
