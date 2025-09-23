@@ -8,6 +8,7 @@
     "rating": 4,
     "type": "Urbana",
     "colors": "black",
+    "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Black-Puffer-Jacket-Style-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Black-Puffer-Jacket-Style-02.png"
@@ -22,6 +23,7 @@
     "rating": 4,
     "type": "Urbana",
     "colors": "#E6E6FA",
+    "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Lavanda-Puffer-Jacket-Style-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Lavanda-Puffer-Jacket-Style-02.png"
@@ -36,6 +38,7 @@
     "rating": 4,
     "type": "Urbana",
     "colors": "#E3DAC9",
+    "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Offwithe-Puffer-Jacket-Style-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Offwithe-Puffer-Jacket-Style-02.png"
@@ -50,6 +53,7 @@
     "rating": 4,
     "type": "Urbana",
     "colors": "#808000",
+    "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Olive-Puffer-Jacket-Style-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Olive-Puffer-Jacket-Style-02.png"
@@ -64,6 +68,7 @@
     "rating": 4,
     "type": "Urbana",
     "colors": "#ea899a",
+    "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Pink-Puffer-Jacket-Style-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Pink-Puffer-Jacket-Style-02.png"
@@ -78,6 +83,7 @@
     "rating": 4,
     "type": "Urbana",
     "colors": "#A020F0",
+    "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Purple-Puffer-Jacket-Style-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Purple-Puffer-Jacket-Style-02.png"
