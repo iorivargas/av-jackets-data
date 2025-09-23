@@ -1,8 +1,8 @@
 [
   {
     "id": "AD-24440-BLACK",
-    "name": "AD-24440",
-    "subtitle": "Black Women Puffer Jacket",
+    "name": "Black Women Puffer Jacket",
+    "subtitle": "AD-24440-BLACK",
     "price": 399,
     "rating": 4,
     "type": "Urbana",
@@ -14,8 +14,8 @@
   },
     {
     "id": "AD-24440-LAVANDA",
-    "name": "AD-24440",
-    "subtitle": "Lavanda Women Puffer Jacket",
+    "name": "Lavanda Women Puffer Jacket",
+    "subtitle": "AD-24440-LAVANDA",
     "price": 399,
     "rating": 4,
     "type": "Urbana",
@@ -27,8 +27,8 @@
   },
     {
     "id": "AD-24440-OFFWHITE",
-    "name": "AD-24440",
-    "subtitle": "Off White Women Puffer Jacket",
+    "name": "Off White Women Puffer Jacket",
+    "subtitle": "AD-24440-OFFWHITE",
     "price": 399,
     "rating": 4,
     "type": "Urbana",
@@ -40,8 +40,8 @@
   },
   {
     "id": "AD-24440-OLIVE",
-    "name": "AD-24440",
-    "subtitle": "Olive Women Puffer Jacket",
+    "name": "Olive Women Puffer Jacket",
+    "subtitle": "AD-24440-OLIVE",
     "price": 399,
     "rating": 4,
     "type": "Urbana",
@@ -53,8 +53,8 @@
   },
   {
     "id": "AD-24440-PINK",
-    "name": "AD-24440",
-    "subtitle": "Pink Women Puffer Jacket",
+    "name": "Pink Women Puffer Jacket",
+    "subtitle": "AD-24440-PINK",
     "price": 399,
     "rating": 4,
     "type": "Urbana",
@@ -65,9 +65,9 @@
     ]
   },
   {
-    "id": "AD-24440-PRPLE",
-    "name": "AD-24440",
-    "subtitle": "Purple Women Puffer Jacket",
+    "id": "AD-24440-PURPLE",
+    "name": "Purple Women Puffer Jacket",
+    "subtitle": "AD-24440-PURPLE",
     "price": 399,
     "rating": 4,
     "type": "Urbana",
