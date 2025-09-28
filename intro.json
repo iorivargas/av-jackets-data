@@ -1,8 +1,10 @@
 {
-  "title": "AVJACKETS\nchamarras confortables, máximo estilo",
+  "title": "AVJACKETS\nChamarras confortables, máximo estilo",
   "subtitle": "Explora nuestra selección con diseño atemporal y materiales premium. Filtra por estilo, color y precio, o busca directamente lo que necesitas.",
   "ctas": [
     { "label": "Ver catálogo", "href": "#catalogo", "variant": "dark" },
     { "label": "Instagram @avjackets", "href": "https://www.instagram.com/avjackets/", "variant": "outline" }
-  ]
+  ],
+  "aboutTitle": "AVJACKETS",
+  "aboutText": "Nacimos con la misión de proveer chamarras versátiles que combinen diseño minimalista con rendimiento cotidiano. Cada pieza se fabrica con altos estándares de calidad y ajuste cómodo. Nuestra colección incluye chamarras urbanas, impermeables, deportivas y reflectantes, ideales para cualquier ocasión."
 }
