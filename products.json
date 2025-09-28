@@ -1,47 +1,47 @@
 [
   {
-    "id": "AD-24440-BLACK",
-    "name": "Black Women Puffer Jacket",
-    "subtitle": "AD-24440-BLACK",
-    "price": 399,
-    "oldPrice": 500,
-    "rating": 4,
-    "type": "Urbana",
-    "colors": "black",
-    "sizes": "M | L",
+    "id": "AF-2303-BLACK",
+    "name": "Black Faux Leather Jacket",
+    "subtitle": "AF-2303-BLACK",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Vinipiel",
+    "colors": "Black",
+    "sizes": "S | L",
     "image": [
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Black-Puffer-Jacket-Style-01.png",
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Black-Puffer-Jacket-Style-02.png"
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-2303/Faux-black-leather-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-2303/Faux-black-leather-02.png"
     ]
   },
     {
-    "id": "AD-24440-LAVANDA",
-    "name": "Lavanda Women Puffer Jacket",
-    "subtitle": "AD-24440-LAVANDA",
+    "id": "AD-24440-PURPLE",
+    "name": "Purple Women Puffer Jacket",
+    "subtitle": "AD-24440-PURPLE",
     "price": 399,
     "oldPrice": 500,
     "rating": 4,
     "type": "Urbana",
-    "colors": "#E6E6FA",
-    "sizes": "S | M | L",
+    "colors": "#A020F0",
+    "sizes": "S | M | L | XL",
     "image": [
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Lavanda-Puffer-Jacket-Style-01.png",
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Lavanda-Puffer-Jacket-Style-02.png"
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Purple-Puffer-Jacket-Style-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Purple-Puffer-Jacket-Style-02.png"
     ]
   },
-    {
-    "id": "AD-24440-OFFWHITE",
-    "name": "Off White Women Puffer Jacket",
-    "subtitle": "AD-24440-OFFWHITE",
-    "price": 399,
-    "oldPrice": 500,
-    "rating": 4,
-    "type": "Urbana",
-    "colors": "#E3DAC9",
-    "sizes": "M | L | XL",
+  {
+    "id": "AF-24440-RED&WHITE",
+    "name": "Red & White Varsity Jacket",
+    "subtitle": "AF-24440-RED&WHITE",
+    "price": 519,
+    "oldPrice": 650,
+    "rating": 5,
+    "type": "Colegial",
+    "colors": "Red",
+    "sizes": "S",
     "image": [
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Offwithe-Puffer-Jacket-Style-01.png",
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Offwithe-Puffer-Jacket-Style-02.png"
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24345/Red%26White-Varsity-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24345/Red%26White-Varsity-Jacket-02.png"
     ]
   },
   {
@@ -57,6 +57,81 @@
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Olive-Puffer-Jacket-Style-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Olive-Puffer-Jacket-Style-02.png"
+    ]
+  },
+     {
+    "id": "NA-210904",
+    "name": "NASA Light Jacket",
+    "subtitle": "NA-210904",
+    "price": 469,
+    "oldPrice": 580,
+    "rating": 5,
+    "type": "Reflectante",
+    "colors": "Gray",
+    "sizes": "M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/NASA/1_NASA%20.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/NASA/2_NASA%20.png"
+    ]
+  },
+  {
+    "id": "AD-24440-LAVANDA",
+    "name": "Lavanda Women Puffer Jacket",
+    "subtitle": "AD-24440-LAVANDA",
+    "price": 399,
+    "oldPrice": 500,
+    "rating": 4,
+    "type": "Urbana",
+    "colors": "#E6E6FA",
+    "sizes": "S | M | L",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Lavanda-Puffer-Jacket-Style-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Lavanda-Puffer-Jacket-Style-02.png"
+    ]
+  },
+   {
+    "id": "AF-24109-MILITAR",
+    "name": "Militar Light Bomber Jacket",
+    "subtitle": "AF-24109-MILITAR",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "#4B5320",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Olive-Bomber-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Olive-Bomber-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AD-24440-OFFWHITE",
+    "name": "Off White Women Puffer Jacket",
+    "subtitle": "AD-24440-OFFWHITE",
+    "price": 399,
+    "oldPrice": 500,
+    "rating": 4,
+    "type": "Urbana",
+    "colors": "#E3DAC9",
+    "sizes": "M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Offwithe-Puffer-Jacket-Style-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Offwithe-Puffer-Jacket-Style-02.png"
+    ]
+  },
+  {
+    "id": "AF-24109-OFFWHITE",
+    "name": "Off White Light Bomber Jacket",
+    "subtitle": "AF-24109-OFFWHITE",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "#E3DAC9",
+    "sizes": "S | M | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Offwithe-Bomber-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Offwhite-Bomber-Jacket-02.png"
     ]
   },
   {
@@ -75,18 +150,287 @@
     ]
   },
   {
-    "id": "AD-24440-PURPLE",
-    "name": "Purple Women Puffer Jacket",
-    "subtitle": "AD-24440-PURPLE",
+    "id": "AF-24109-NAVY",
+    "name": "Navy Light Bomber Jacket",
+    "subtitle": "AF-24109-NAVY",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "#E3DAC9",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Navy-Bomber-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Navy-Bomber-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AD-24440-BLACK",
+    "name": "Black Women Puffer Jacket",
+    "subtitle": "AD-24440-BLACK",
     "price": 399,
     "oldPrice": 500,
     "rating": 4,
     "type": "Urbana",
-    "colors": "#A020F0",
+    "colors": "black",
+    "sizes": "M | L",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Black-Puffer-Jacket-Style-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Black-Puffer-Jacket-Style-02.png"
+    ]
+  },
+  {
+    "id": "AF-24220-GRAY",
+    "name": "Gray Corduroy Jacket",
+    "subtitle": "AF-24220-GRAY",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Pana",
+    "colors": "Gray",
     "sizes": "S | M | L | XL",
     "image": [
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Purple-Puffer-Jacket-Style-01.png",
-      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AD-24440/Purple-Puffer-Jacket-Style-02.png"
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Gray-Corduroy-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Gray-Corduroy-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-24109-BLACK",
+    "name": "Black Light Bomber Jacket",
+    "subtitle": "AF-24109-BLACK",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "Black",
+    "sizes": "M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Black-Bomber-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24109/Black-Bomber-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-24220-CAMEL",
+    "name": "Camel Corduroy Jacket",
+    "subtitle": "AF-24220-CAMEL",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Pana",
+    "colors": "#CDB787",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Camel-Corduroy-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Camel-Corduroy-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-22279-BLACK",
+    "name": "Black Light Jacket",
+    "subtitle": "AF-22279-BLACK",
+    "price": 399,
+    "oldPrice": 500,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "Black",
+    "sizes": "S",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-22279/Black-Light-Bomber-Jacket%20-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-22279/Black-Light-Bomber-Jacket%20-02.png"
+    ]
+  },
+  {
+    "id": "AF-24220-NAVY",
+    "name": "Navy Corduroy Jacket",
+    "subtitle": "AF-24220-NAVY",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Pana",
+    "colors": "#081534",
+    "sizes": "M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Navy-Corduroy-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Navy-Corduroy-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-24220-BLACK",
+    "name": "Black Corduroy Jacket",
+    "subtitle": "AF-24220-BLACK",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Pana",
+    "colors": "Black",
+    "sizes": "M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Black-Corduroy-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24220-PANA/Black-Corduroy-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-24117-OFFWHITE",
+    "name": "Off White Puffer Jacket",
+    "subtitle": "AF-24117-OFFWHITE",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Acolchada",
+    "colors": "#E3DAC9",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24117/Offwhite-Puffer-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24117/Offwhite-Puffer-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-24117-MILITAR",
+    "name": "Militar Puffer Jacket",
+    "subtitle": "AF-24117-MILITAR",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Acolchada",
+    "colors": "#276221",
+    "sizes": "S | M | L | XL",
+    "image": "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24117/Militar-Puffer-Jacket-01.png"
+  },
+  {
+    "id": "AF-24117-BLACK",
+    "name": "Black Puffer Jacket",
+    "subtitle": "AF-24117-BLACK",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Acolchada",
+    "colors": "Black",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24117/Black-Puffer-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24117/Black-Puffer-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-24112-BLACK",
+    "name": "Black Suede Jacket",
+    "subtitle": "AF-24112-BLACK",
+    "price": 469,
+    "oldPrice": 580,
+    "rating": 5,
+    "type": "Gamusa",
+    "colors": "Black",
+    "sizes": "S | M | L",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24112/Black-Suede-Jacket-01.png"
+    ]
+  },
+  {
+    "id": "AF-24112-BROWN",
+    "name": "Brown Suede Jacket",
+    "subtitle": "AF-24112-BROWN",
+    "price": 469,
+    "oldPrice": 580,
+    "rating": 5,
+    "type": "Gamusa",
+    "colors": "#704214",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24112/Brown-Suede-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24112/Brown-Suede-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-24112-CAMEL",
+    "name": "Camel Suede Jacket",
+    "subtitle": "AF-24112-CAMEL",
+    "price": 469,
+    "oldPrice": 580,
+    "rating": 5,
+    "type": "Gamusa",
+    "colors": "#AA7444",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24112/Camel-Suede-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-24112/Camel-Suede-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-25209-OFFWHITE",
+    "name": "Off White Bomber Jacket",
+    "subtitle": "AF-25209-OFFWHITE",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "#E3DAC9",
+    "sizes": "S | M | L",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Offwhite-Bomber-Jacket-02.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Offwhite-Bomber-Jacket-03.png"
+    ]
+  },
+  {
+    "id": "AF-25209-BLACK",
+    "name": "Black Bomber Jacket",
+    "subtitle": "AF-25209-BLACK",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "Black",
+    "sizes": "S | M | L | XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Black-Bomber-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Black-Bomber-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "AF-25209-CAMEL",
+    "name": "Camel Bomber Jacket",
+    "subtitle": "AF-25209-CAMEL",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 4,
+    "type": "Ligera",
+    "colors": "#CDB787",
+    "sizes": "S | M | L XL",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Camel-Bomber-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Camel-Bomber-Jacket-02.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Camel-Bomber-Jacket-03.png"
+    ]
+  },
+    {
+    "id": "HUJCH-24336-BLACK",
+    "name": "Black Varsity Type Jacket",
+    "subtitle": "HUJCH-24336-BLACK",
+    "price": 399,
+    "oldPrice": 550,
+    "rating": 4,
+    "type": "Colegial",
+    "colors": "Black",
+    "sizes": "L",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/HUJCH-24336/Black-Type-Varsity-Jacket-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/HUJCH-24336/Black-Type-Varsity-Jacket-02.png"
+    ]
+  },
+  {
+    "id": "POLO-24336-BLACK&OFFWHITE",
+    "name": "Polo Type Black & Off White Jacket",
+    "subtitle": "POLO-24336-BLACK&OFFWHITE",
+    "price": 449,
+    "oldPrice": 560,
+    "rating": 5,
+    "type": "Doble Vista",
+    "colors": "Black | #E3DAC9",
+    "sizes": "M",
+    "image": [
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Polo/Women-Black-Polo-Two-Sides-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Polo/Women-Offwhite-Polo-Two-Sides-01.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Polo/Women-Black-Polo-Two-Sides-02.png",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Polo/Women-Offwhite-Polo-Two-Sides-02.png"
     ]
   }
 ]
