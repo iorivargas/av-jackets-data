@@ -394,7 +394,7 @@
     "rating": 4,
     "type": "Ligera",
     "colors": "#CDB787",
-    "sizes": "S | M | L XL",
+    "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Camel-Bomber-Jacket-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Camel-Bomber-Jacket-02.png",
@@ -422,10 +422,11 @@
     "subtitle": "POLO-24336-BLACK&OFFWHITE",
     "price": 449,
     "oldPrice": 560,
+    "soldOut": true,
     "rating": 5,
     "type": "Doble Vista",
     "colors": "Black | #E3DAC9",
-    "sizes": "M",
+    "sizes": "",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Polo/Women-Black-Polo-Two-Sides-01.png",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/Polo/Women-Offwhite-Polo-Two-Sides-01.png",
