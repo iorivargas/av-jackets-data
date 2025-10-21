@@ -314,7 +314,7 @@
   {
     "id": "AF-24112-BLACK",
     "name": "Black Suede Jacket",
-    "subtitle": "AF-24112-BLACK",
+    "subtitle": "AF-24112-BLACK / Gorro Desmontable",
     "price": 469,
     "oldPrice": 580,
     "rating": 5,
@@ -328,7 +328,7 @@
   {
     "id": "AF-24112-BROWN",
     "name": "Brown Suede Jacket",
-    "subtitle": "AF-24112-BROWN",
+    "subtitle": "AF-24112-BROWN / Gorro Desmontable",
     "price": 469,
     "oldPrice": 580,
     "rating": 5,
@@ -343,7 +343,7 @@
   {
     "id": "AF-24112-CAMEL",
     "name": "Camel Suede Jacket",
-    "subtitle": "AF-24112-CAMEL",
+    "subtitle": "AF-24112-CAMEL / Gorro Desmontable",
     "price": 469,
     "oldPrice": 580,
     "rating": 5,
@@ -386,9 +386,9 @@
     ]
   },
   {
-    "id": "AF-25209-CAMEL",
-    "name": "Camel Bomber Jacket",
-    "subtitle": "AF-25209-CAMEL",
+    "id": "AF-25209-BROWN",
+    "name": "Brown Bomber Jacket",
+    "subtitle": "AF-25209-BROWN",
     "price": 449,
     "oldPrice": 560,
     "rating": 4,
@@ -397,6 +397,8 @@
     "sizes": "S | M | L | XL",
     "image": [
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets_converted/AF-25290/Camel-Bomber-Jacket-01.jpeg",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Camel-Bomber-Jacket-01.jpeg",
+      "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets/AF-25290/Camel-Bomber-Jacket-02.jpeg",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets_converted/AF-25290/Camel-Bomber-Jacket-02.jpeg",
       "https://raw.githubusercontent.com/iorivargas/av-jackets-data/refs/heads/main/assets_converted/AF-25290/Camel-Bomber-Jacket-03.jpeg"
     ]
